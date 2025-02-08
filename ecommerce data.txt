@@ -1,0 +1,76 @@
+home_page_view:
+- pageType: home_page, plp, pdp, search
+- userId
+
+plp_page_view:
+- slug (some collection slug like t-shirt, shorts, footwear, dumbbells, treadmills, beauty products, makeup, lipstick, some more ecommerce product categories)
+- userId
+
+pdp_page_view:
+- slug (product name slugs)
+- productId
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+- subcategory (a smaller category of the above category)
+- userId
+
+search_page_view
+- search_term
+- userId
+- results_count
+
+add_to_cart
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+
+add_to_wishlist
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+
+remove_from_cart
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+
+remove_from_wishlist
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+
+share_product_click
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+
+checkout_initiated_item_level
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)
+
+checkout_complete_item_level
+- productId
+- userId
+- skuId
+- quantity
+- source (like where did the user land to this page from? instagram ad, facebook ad, google ad, website nav etc.)
+- category (think of some slugs that cover both male and female cohort)

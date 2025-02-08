@@ -1,0 +1,39 @@
+from fake_user_profile import user_id
+
+story_click:
+- storyId
+- storyType: video / photo
+- user_id
+- seconds_viewed
+
+story_liked:
+- storyId
+- author_id
+- user_id
+- storyType: video / photo
+
+save_post
+- post_id
+- category: Adventure / Outdoor / Sports / Indoor / Beauty / Movie / Food / Lifestyle / Luxury / Hygiene
+- sub_category: football / cricket / hiking
+
+
+profile_view
+
+
+reel_view
+
+
+reel_tile_click
+
+
+like_post
+
+
+unlike_post
+
+
+comment_post
+
+
+report_post

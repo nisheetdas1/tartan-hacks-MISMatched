@@ -1,0 +1,88 @@
+{
+  "events": [
+    {
+      "event_name": "story_click",
+      "fields": {
+        "storyId": "string",
+        "storyType": "string (video / photo)",
+        "user_id": "string",
+        "seconds_viewed": "float (seconds)"
+      }
+    },
+    {
+      "event_name": "story_liked",
+      "fields": {
+        "storyId": "string",
+        "author_id": "string",
+        "user_id": "string",
+        "storyType": "string (video / photo)"
+      }
+    },
+    {
+      "event_name": "save_post",
+      "fields": {
+        "post_id": "string",
+        "category": "string (Adventure / Outdoor / Sports / Indoor / Beauty / Movie / Food / Lifestyle / Luxury / Hygiene)",
+        "sub_category": "string (e.g., football, cricket, hiking)"
+      }
+    },
+    {
+      "event_name": "profile_view",
+      "fields": {
+        "viewer_id": "string",
+        "profile_id": "string",
+        "view_duration": "float (seconds)",
+        "timestamp": "datetime"
+      }
+    },
+    {
+      "event_name": "reel_view",
+      "fields": {
+        "reel_id": "string",
+        "user_id": "string",
+        "seconds_viewed": "float (seconds)",
+        "reelType": "string (e.g., video, animation)",
+        "timestamp": "datetime"
+      }
+    },
+    {
+      "event_name": "reel_tile_click",
+      "fields": {
+        "tile_id": "string",
+        "user_id": "string",
+        "source_page": "string (e.g., Home, Explore)",
+        "timestamp": "datetime"
+      }
+    },
+    {
+      "event_name": "like_post",
+      "fields": {
+        "post_id": "string",
+        "author_id": "string",
+        "user_id": "string",
+        "category": "string (e.g., Adventure, Beauty, etc.)",
+        "timestamp": "datetime"
+      }
+    },
+    {
+      "event_name": "unlike_post",
+      "fields": {
+        "post_id": "string",
+        "author_id": "string",
+        "user_id": "string",
+        "category": "string (e.g., Adventure, Beauty, etc.)",
+        "timestamp": "datetime"
+      }
+    },
+    {
+      "event_name": "comment_post",
+      "fields": {
+        "post_id": ": string",
+        "author_id": "string",
+        "user_id": "string ",
+        "comment_text": "string",
+        "timestamp": "datetime"
+      }
+    }
+  ]
+}

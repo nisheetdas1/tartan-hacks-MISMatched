@@ -1,0 +1,501 @@
+User ID,Behavior,Timestamp
+User_001,Price Sensitivity,2025-01-18 03:45:09
+User_002,Impulse Buying,2025-01-10 01:10:09
+User_003,Coupon Hunting,2025-02-05 07:26:09
+User_004,Product Comparison,2025-01-11 13:09:09
+User_005,Social Media Ad Clickthrough,2025-01-15 21:36:09
+User_006,Subscription Box Signup,2025-01-29 00:46:09
+User_007,Price Sensitivity,2025-02-01 01:05:09
+User_008,Browsing Without Purchase,2025-02-08 08:17:09
+User_009,Personalized Recommendation Interaction,2025-01-28 18:42:09
+User_010,Repeat Purchase,2025-02-05 22:53:09
+User_011,Email Campaign Engagement,2025-02-08 05:54:09
+User_012,Subscription Box Signup,2025-01-28 21:16:09
+User_013,Email Campaign Engagement,2025-01-28 10:25:09
+User_014,Social Media Ad Clickthrough,2025-01-14 22:48:09
+User_015,Coupon Hunting,2025-01-14 20:52:09
+User_016,Desktop Browsing,2025-01-27 06:10:09
+User_017,Social Media Ad Clickthrough,2025-01-16 08:46:09
+User_018,Search Query Refinement,2025-01-17 23:04:09
+User_019,Flash Sale Participation,2025-02-03 12:30:09
+User_020,Subscription Box Signup,2025-01-24 13:23:09
+User_021,Email Campaign Engagement,2025-01-09 04:12:09
+User_022,Personalized Recommendation Interaction,2025-02-08 08:38:09
+User_023,Email Campaign Engagement,2025-01-25 03:13:09
+User_024,Product Review Reading,2025-01-08 23:33:09
+User_025,Product Comparison,2025-01-16 10:24:09
+User_026,Mobile App Browsing,2025-01-30 01:02:09
+User_027,Browsing Without Purchase,2025-02-07 11:44:09
+User_028,Product Review Reading,2025-01-09 21:00:09
+User_029,Price Sensitivity,2025-02-08 04:27:09
+User_030,Flash Sale Participation,2025-01-18 13:55:09
+User_031,Search Query Refinement,2025-01-21 04:36:09
+User_032,Coupon Hunting,2025-01-30 10:45:09
+User_033,Mobile App Browsing,2025-02-02 22:09:09
+User_034,Price Sensitivity,2025-01-18 14:50:09
+User_035,Product Comparison,2025-01-21 23:51:09
+User_036,Wishlist Addition,2025-01-22 15:01:09
+User_037,Product Review Reading,2025-01-09 18:02:09
+User_038,Desktop Browsing,2025-01-12 09:53:09
+User_039,Mobile App Browsing,2025-02-05 22:38:09
+User_040,Product Comparison,2025-01-28 00:32:09
+User_041,Personalized Recommendation Interaction,2025-02-02 01:57:09
+User_042,Price Sensitivity,2025-01-31 18:43:09
+User_043,Product Comparison,2025-01-16 21:37:09
+User_044,Personalized Recommendation Interaction,2025-02-07 15:57:09
+User_045,Flash Sale Participation,2025-01-24 05:08:09
+User_046,Loyalty Program Usage,2025-01-28 19:25:09
+User_047,Browsing Without Purchase,2025-01-23 10:11:09
+User_048,Cart Abandonment,2025-01-17 21:50:09
+User_049,Impulse Buying,2025-02-01 13:34:09
+User_050,Subscription Box Signup,2025-01-13 18:15:09
+User_051,Checkout Completion,2025-02-04 20:16:09
+User_052,Subscription Box Signup,2025-01-18 23:24:09
+User_053,Subscription Box Signup,2025-02-02 15:44:09
+User_054,Search Query Refinement,2025-01-15 18:20:09
+User_055,Desktop Browsing,2025-01-31 23:08:09
+User_056,Desktop Browsing,2025-01-28 18:29:09
+User_057,Flash Sale Participation,2025-01-19 21:09:09
+User_058,Cart Abandonment,2025-01-21 10:04:09
+User_059,Personalized Recommendation Interaction,2025-01-23 11:11:09
+User_060,Cart Abandonment,2025-01-20 10:54:09
+User_061,Flash Sale Participation,2025-01-27 05:47:09
+User_062,Social Media Ad Clickthrough,2025-01-16 12:18:09
+User_063,Desktop Browsing,2025-01-31 07:44:09
+User_064,Product Review Reading,2025-01-30 21:17:09
+User_065,Product Comparison,2025-01-27 13:21:09
+User_066,Product Comparison,2025-01-10 17:34:09
+User_067,Subscription Box Signup,2025-01-15 19:12:09
+User_068,Price Sensitivity,2025-01-25 07:15:09
+User_069,Subscription Box Signup,2025-01-20 23:07:09
+User_070,Personalized Recommendation Interaction,2025-01-15 14:46:09
+User_071,Coupon Hunting,2025-01-26 02:43:09
+User_072,Impulse Buying,2025-01-31 01:38:09
+User_073,Personalized Recommendation Interaction,2025-01-16 22:13:09
+User_074,Desktop Browsing,2025-01-15 01:07:09
+User_075,Repeat Purchase,2025-01-22 17:36:09
+User_076,Price Sensitivity,2025-01-31 15:06:09
+User_077,Flash Sale Participation,2025-01-31 03:50:09
+User_078,Impulse Buying,2025-01-22 21:27:09
+User_079,Personalized Recommendation Interaction,2025-01-20 21:15:09
+User_080,Cart Abandonment,2025-01-20 03:54:09
+User_081,Repeat Purchase,2025-01-16 20:28:09
+User_082,Subscription Box Signup,2025-01-24 17:08:09
+User_083,Checkout Completion,2025-01-11 18:50:09
+User_084,Repeat Purchase,2025-01-11 19:10:09
+User_085,Flash Sale Participation,2025-01-27 07:34:09
+User_086,Browsing Without Purchase,2025-01-28 11:54:09
+User_087,Browsing Without Purchase,2025-02-08 05:56:09
+User_088,Wishlist Addition,2025-01-20 05:25:09
+User_089,Social Media Ad Clickthrough,2025-01-29 20:52:09
+User_090,Checkout Completion,2025-01-14 16:03:09
+User_091,Social Media Ad Clickthrough,2025-02-03 07:15:09
+User_092,Product Review Reading,2025-01-30 04:16:09
+User_093,Browsing Without Purchase,2025-01-14 16:56:09
+User_094,Search Query Refinement,2025-01-17 11:53:09
+User_095,Product Comparison,2025-01-12 00:03:09
+User_096,Product Review Reading,2025-01-27 18:17:09
+User_097,Search Query Refinement,2025-02-01 22:51:09
+User_098,Flash Sale Participation,2025-02-07 15:30:09
+User_099,Search Query Refinement,2025-01-26 20:17:09
+User_100,Mobile App Browsing,2025-02-02 11:41:09
+User_101,Loyalty Program Usage,2025-01-23 18:10:09
+User_102,Search Query Refinement,2025-02-01 00:43:09
+User_103,Coupon Hunting,2025-01-31 07:09:09
+User_104,Coupon Hunting,2025-02-01 10:28:09
+User_105,Repeat Purchase,2025-01-13 06:16:09
+User_106,Product Review Reading,2025-01-13 23:19:09
+User_107,Browsing Without Purchase,2025-02-04 07:14:09
+User_108,Checkout Completion,2025-01-20 04:02:09
+User_109,Browsing Without Purchase,2025-01-17 05:18:09
+User_110,Product Comparison,2025-01-21 23:57:09
+User_111,Desktop Browsing,2025-01-21 14:35:09
+User_112,Desktop Browsing,2025-01-31 11:09:09
+User_113,Subscription Box Signup,2025-02-07 23:39:09
+User_114,Loyalty Program Usage,2025-01-27 13:12:09
+User_115,Social Media Ad Clickthrough,2025-01-29 22:59:09
+User_116,Impulse Buying,2025-01-24 01:47:09
+User_117,Flash Sale Participation,2025-01-27 19:05:09
+User_118,Price Sensitivity,2025-02-07 22:13:09
+User_119,Flash Sale Participation,2025-02-07 17:54:09
+User_120,Mobile App Browsing,2025-02-04 16:33:09
+User_121,Desktop Browsing,2025-01-12 09:14:09
+User_122,Search Query Refinement,2025-01-15 04:29:09
+User_123,Mobile App Browsing,2025-02-01 03:14:09
+User_124,Email Campaign Engagement,2025-01-29 12:30:09
+User_125,Cart Abandonment,2025-02-04 06:53:09
+User_126,Browsing Without Purchase,2025-02-06 02:59:09
+User_127,Price Sensitivity,2025-01-13 17:07:09
+User_128,Checkout Completion,2025-02-07 10:42:09
+User_129,Email Campaign Engagement,2025-01-14 22:30:09
+User_130,Checkout Completion,2025-01-23 21:46:09
+User_131,Cart Abandonment,2025-01-09 17:36:09
+User_132,Product Review Reading,2025-01-24 09:47:09
+User_133,Social Media Ad Clickthrough,2025-01-24 20:25:09
+User_134,Impulse Buying,2025-01-31 13:37:09
+User_135,Wishlist Addition,2025-01-24 03:11:09
+User_136,Cart Abandonment,2025-01-21 07:51:09
+User_137,Wishlist Addition,2025-01-22 22:58:09
+User_138,Checkout Completion,2025-01-11 17:26:09
+User_139,Social Media Ad Clickthrough,2025-02-05 20:43:09
+User_140,Personalized Recommendation Interaction,2025-01-20 07:45:09
+User_141,Cart Abandonment,2025-01-31 21:21:09
+User_142,Loyalty Program Usage,2025-01-14 14:07:09
+User_143,Social Media Ad Clickthrough,2025-01-25 09:04:09
+User_144,Impulse Buying,2025-02-03 00:23:09
+User_145,Loyalty Program Usage,2025-01-08 15:58:09
+User_146,Personalized Recommendation Interaction,2025-01-25 09:37:09
+User_147,Wishlist Addition,2025-01-09 23:13:09
+User_148,Product Comparison,2025-01-13 23:16:09
+User_149,Price Sensitivity,2025-01-25 15:31:09
+User_150,Browsing Without Purchase,2025-01-31 22:58:09
+User_151,Product Comparison,2025-01-19 02:24:09
+User_152,Social Media Ad Clickthrough,2025-01-17 08:25:09
+User_153,Mobile App Browsing,2025-01-15 01:01:09
+User_154,Desktop Browsing,2025-02-07 19:59:09
+User_155,Coupon Hunting,2025-01-24 19:42:09
+User_156,Search Query Refinement,2025-01-16 11:08:09
+User_157,Wishlist Addition,2025-02-07 10:13:09
+User_158,Subscription Box Signup,2025-01-27 22:17:09
+User_159,Coupon Hunting,2025-02-06 02:12:09
+User_160,Coupon Hunting,2025-01-28 19:19:09
+User_161,Mobile App Browsing,2025-01-24 12:37:09
+User_162,Personalized Recommendation Interaction,2025-01-10 05:34:09
+User_163,Flash Sale Participation,2025-01-25 06:51:09
+User_164,Product Review Reading,2025-01-24 17:37:09
+User_165,Personalized Recommendation Interaction,2025-01-22 03:25:09
+User_166,Product Comparison,2025-01-10 13:17:09
+User_167,Email Campaign Engagement,2025-02-07 06:55:09
+User_168,Wishlist Addition,2025-01-29 14:48:09
+User_169,Browsing Without Purchase,2025-01-24 10:57:09
+User_170,Product Comparison,2025-01-28 20:43:09
+User_171,Checkout Completion,2025-02-05 18:27:09
+User_172,Email Campaign Engagement,2025-01-10 22:42:09
+User_173,Cart Abandonment,2025-02-06 07:10:09
+User_174,Subscription Box Signup,2025-02-06 08:04:09
+User_175,Product Review Reading,2025-01-16 02:24:09
+User_176,Browsing Without Purchase,2025-01-13 11:09:09
+User_177,Price Sensitivity,2025-01-26 04:22:09
+User_178,Loyalty Program Usage,2025-02-05 11:05:09
+User_179,Mobile App Browsing,2025-01-29 19:05:09
+User_180,Price Sensitivity,2025-01-09 09:47:09
+User_181,Price Sensitivity,2025-02-07 04:05:09
+User_182,Impulse Buying,2025-02-05 14:09:09
+User_183,Coupon Hunting,2025-01-25 00:30:09
+User_184,Loyalty Program Usage,2025-01-19 21:19:09
+User_185,Checkout Completion,2025-01-27 17:34:09
+User_186,Browsing Without Purchase,2025-01-31 11:16:09
+User_187,Mobile App Browsing,2025-01-20 18:52:09
+User_188,Repeat Purchase,2025-01-26 10:32:09
+User_189,Desktop Browsing,2025-01-22 11:36:09
+User_190,Checkout Completion,2025-01-29 06:11:09
+User_191,Email Campaign Engagement,2025-01-24 07:04:09
+User_192,Social Media Ad Clickthrough,2025-01-23 18:28:09
+User_193,Cart Abandonment,2025-02-06 14:46:09
+User_194,Search Query Refinement,2025-01-14 01:04:09
+User_195,Personalized Recommendation Interaction,2025-01-15 20:08:09
+User_196,Checkout Completion,2025-01-23 19:29:09
+User_197,Email Campaign Engagement,2025-01-31 15:59:09
+User_198,Cart Abandonment,2025-01-16 09:00:09
+User_199,Mobile App Browsing,2025-01-12 04:36:09
+User_200,Product Review Reading,2025-01-19 16:44:09
+User_201,Cart Abandonment,2025-01-09 00:05:09
+User_202,Social Media Ad Clickthrough,2025-01-16 05:53:09
+User_203,Subscription Box Signup,2025-01-27 22:12:09
+User_204,Price Sensitivity,2025-01-26 11:40:09
+User_205,Flash Sale Participation,2025-01-17 16:10:09
+User_206,Subscription Box Signup,2025-01-18 03:58:09
+User_207,Email Campaign Engagement,2025-01-22 10:23:09
+User_208,Personalized Recommendation Interaction,2025-01-13 14:19:09
+User_209,Checkout Completion,2025-01-09 00:07:09
+User_210,Price Sensitivity,2025-01-25 12:03:09
+User_211,Cart Abandonment,2025-01-17 05:17:09
+User_212,Product Comparison,2025-02-06 02:37:09
+User_213,Desktop Browsing,2025-02-06 16:02:09
+User_214,Cart Abandonment,2025-01-11 20:35:09
+User_215,Social Media Ad Clickthrough,2025-02-03 23:43:09
+User_216,Email Campaign Engagement,2025-01-17 10:20:09
+User_217,Checkout Completion,2025-01-14 16:48:09
+User_218,Personalized Recommendation Interaction,2025-01-12 05:46:09
+User_219,Wishlist Addition,2025-02-05 03:35:09
+User_220,Desktop Browsing,2025-02-04 00:39:09
+User_221,Price Sensitivity,2025-01-26 08:10:09
+User_222,Loyalty Program Usage,2025-01-27 16:38:09
+User_223,Product Review Reading,2025-02-06 00:37:09
+User_224,Loyalty Program Usage,2025-01-29 12:25:09
+User_225,Coupon Hunting,2025-01-11 23:14:09
+User_226,Personalized Recommendation Interaction,2025-01-31 04:53:09
+User_227,Cart Abandonment,2025-01-09 15:40:09
+User_228,Product Review Reading,2025-01-29 13:32:09
+User_229,Checkout Completion,2025-01-30 00:50:09
+User_230,Price Sensitivity,2025-01-19 20:22:09
+User_231,Subscription Box Signup,2025-01-19 04:15:09
+User_232,Repeat Purchase,2025-02-01 22:01:09
+User_233,Checkout Completion,2025-01-22 05:27:09
+User_234,Product Review Reading,2025-01-15 12:04:09
+User_235,Mobile App Browsing,2025-01-18 05:01:09
+User_236,Personalized Recommendation Interaction,2025-01-27 03:06:09
+User_237,Desktop Browsing,2025-02-08 08:35:09
+User_238,Product Comparison,2025-01-28 13:14:09
+User_239,Mobile App Browsing,2025-01-18 01:16:09
+User_240,Mobile App Browsing,2025-02-02 02:11:09
+User_241,Cart Abandonment,2025-01-28 10:03:09
+User_242,Coupon Hunting,2025-01-29 08:48:09
+User_243,Subscription Box Signup,2025-01-23 01:59:09
+User_244,Cart Abandonment,2025-01-19 07:20:09
+User_245,Coupon Hunting,2025-01-14 08:59:09
+User_246,Search Query Refinement,2025-01-20 13:55:09
+User_247,Social Media Ad Clickthrough,2025-01-18 13:36:09
+User_248,Impulse Buying,2025-01-31 18:33:09
+User_249,Product Review Reading,2025-01-23 12:26:09
+User_250,Loyalty Program Usage,2025-01-26 20:05:09
+User_251,Impulse Buying,2025-02-01 22:10:09
+User_252,Coupon Hunting,2025-01-09 16:51:09
+User_253,Personalized Recommendation Interaction,2025-01-30 00:45:09
+User_254,Email Campaign Engagement,2025-02-06 02:57:09
+User_255,Product Review Reading,2025-01-19 20:45:09
+User_256,Loyalty Program Usage,2025-01-21 07:12:09
+User_257,Cart Abandonment,2025-01-13 15:03:09
+User_258,Repeat Purchase,2025-01-21 22:27:09
+User_259,Cart Abandonment,2025-01-14 10:12:09
+User_260,Email Campaign Engagement,2025-02-06 15:49:09
+User_261,Cart Abandonment,2025-01-14 08:52:09
+User_262,Browsing Without Purchase,2025-01-21 15:04:09
+User_263,Wishlist Addition,2025-01-09 16:42:09
+User_264,Loyalty Program Usage,2025-01-23 04:21:09
+User_265,Wishlist Addition,2025-01-26 18:03:09
+User_266,Loyalty Program Usage,2025-01-17 23:05:09
+User_267,Flash Sale Participation,2025-01-19 15:07:09
+User_268,Wishlist Addition,2025-01-12 12:20:09
+User_269,Wishlist Addition,2025-01-21 21:36:09
+User_270,Search Query Refinement,2025-02-07 06:16:09
+User_271,Social Media Ad Clickthrough,2025-01-30 05:56:09
+User_272,Cart Abandonment,2025-01-14 06:03:09
+User_273,Mobile App Browsing,2025-02-02 13:53:09
+User_274,Cart Abandonment,2025-01-22 01:20:09
+User_275,Coupon Hunting,2025-01-12 07:17:09
+User_276,Search Query Refinement,2025-02-07 17:04:09
+User_277,Search Query Refinement,2025-01-21 03:00:09
+User_278,Flash Sale Participation,2025-01-13 01:19:09
+User_279,Cart Abandonment,2025-02-03 00:39:09
+User_280,Search Query Refinement,2025-01-31 06:53:09
+User_281,Flash Sale Participation,2025-01-23 06:06:09
+User_282,Personalized Recommendation Interaction,2025-01-27 16:52:09
+User_283,Price Sensitivity,2025-02-01 08:42:09
+User_284,Flash Sale Participation,2025-01-26 12:03:09
+User_285,Loyalty Program Usage,2025-01-20 20:43:09
+User_286,Coupon Hunting,2025-01-25 05:16:09
+User_287,Mobile App Browsing,2025-01-10 15:50:09
+User_288,Price Sensitivity,2025-01-23 19:10:09
+User_289,Product Review Reading,2025-01-20 19:50:09
+User_290,Search Query Refinement,2025-01-25 14:40:09
+User_291,Personalized Recommendation Interaction,2025-01-26 23:31:09
+User_292,Flash Sale Participation,2025-01-11 16:51:09
+User_293,Coupon Hunting,2025-01-28 11:14:09
+User_294,Flash Sale Participation,2025-01-12 05:04:09
+User_295,Mobile App Browsing,2025-01-26 16:29:09
+User_296,Checkout Completion,2025-01-29 13:38:09
+User_297,Desktop Browsing,2025-01-28 03:31:09
+User_298,Flash Sale Participation,2025-01-17 22:49:09
+User_299,Repeat Purchase,2025-01-11 04:24:09
+User_300,Cart Abandonment,2025-01-22 08:04:09
+User_301,Social Media Ad Clickthrough,2025-01-30 09:58:09
+User_302,Flash Sale Participation,2025-01-15 06:02:09
+User_303,Price Sensitivity,2025-01-09 11:58:09
+User_304,Social Media Ad Clickthrough,2025-01-10 20:01:09
+User_305,Subscription Box Signup,2025-01-18 17:58:09
+User_306,Personalized Recommendation Interaction,2025-02-04 19:53:09
+User_307,Flash Sale Participation,2025-01-30 16:21:09
+User_308,Repeat Purchase,2025-01-10 15:19:09
+User_309,Browsing Without Purchase,2025-02-01 19:52:09
+User_310,Mobile App Browsing,2025-01-21 07:17:09
+User_311,Cart Abandonment,2025-01-24 13:28:09
+User_312,Browsing Without Purchase,2025-01-10 18:33:09
+User_313,Desktop Browsing,2025-01-23 21:50:09
+User_314,Wishlist Addition,2025-01-29 13:03:09
+User_315,Social Media Ad Clickthrough,2025-01-19 22:39:09
+User_316,Email Campaign Engagement,2025-01-09 10:50:09
+User_317,Desktop Browsing,2025-02-06 12:32:09
+User_318,Cart Abandonment,2025-01-17 13:12:09
+User_319,Search Query Refinement,2025-01-27 08:19:09
+User_320,Search Query Refinement,2025-01-08 18:39:09
+User_321,Browsing Without Purchase,2025-01-31 23:17:09
+User_322,Email Campaign Engagement,2025-01-09 11:35:09
+User_323,Email Campaign Engagement,2025-02-02 21:43:09
+User_324,Cart Abandonment,2025-01-11 16:12:09
+User_325,Wishlist Addition,2025-01-11 17:21:09
+User_326,Product Review Reading,2025-01-11 09:08:09
+User_327,Loyalty Program Usage,2025-02-08 05:09:09
+User_328,Subscription Box Signup,2025-02-04 13:13:09
+User_329,Cart Abandonment,2025-01-31 17:26:09
+User_330,Subscription Box Signup,2025-01-08 21:21:09
+User_331,Mobile App Browsing,2025-01-15 14:09:09
+User_332,Flash Sale Participation,2025-02-02 06:55:09
+User_333,Wishlist Addition,2025-01-30 20:20:09
+User_334,Impulse Buying,2025-01-28 11:39:09
+User_335,Email Campaign Engagement,2025-01-25 04:55:09
+User_336,Repeat Purchase,2025-01-13 13:24:09
+User_337,Product Review Reading,2025-01-15 06:00:09
+User_338,Personalized Recommendation Interaction,2025-01-22 06:45:09
+User_339,Checkout Completion,2025-01-30 07:38:09
+User_340,Loyalty Program Usage,2025-01-09 12:31:09
+User_341,Impulse Buying,2025-01-16 19:38:09
+User_342,Loyalty Program Usage,2025-01-18 02:01:09
+User_343,Repeat Purchase,2025-02-06 15:00:09
+User_344,Impulse Buying,2025-01-22 16:23:09
+User_345,Checkout Completion,2025-01-19 11:39:09
+User_346,Product Comparison,2025-01-14 22:27:09
+User_347,Loyalty Program Usage,2025-01-28 13:27:09
+User_348,Price Sensitivity,2025-01-10 09:08:09
+User_349,Product Comparison,2025-01-16 17:16:09
+User_350,Personalized Recommendation Interaction,2025-01-21 08:18:09
+User_351,Product Review Reading,2025-01-16 06:55:09
+User_352,Mobile App Browsing,2025-01-09 05:45:09
+User_353,Mobile App Browsing,2025-01-27 12:00:09
+User_354,Cart Abandonment,2025-01-22 13:43:09
+User_355,Loyalty Program Usage,2025-02-03 04:01:09
+User_356,Cart Abandonment,2025-01-08 19:35:09
+User_357,Wishlist Addition,2025-01-23 20:54:09
+User_358,Cart Abandonment,2025-02-03 14:04:09
+User_359,Social Media Ad Clickthrough,2025-02-01 19:56:09
+User_360,Desktop Browsing,2025-01-30 03:10:09
+User_361,Impulse Buying,2025-01-23 16:06:09
+User_362,Cart Abandonment,2025-02-03 01:58:09
+User_363,Personalized Recommendation Interaction,2025-02-05 09:12:09
+User_364,Loyalty Program Usage,2025-02-03 04:58:09
+User_365,Checkout Completion,2025-02-01 07:57:09
+User_366,Price Sensitivity,2025-02-08 02:05:09
+User_367,Loyalty Program Usage,2025-01-31 13:40:09
+User_368,Mobile App Browsing,2025-01-08 15:52:09
+User_369,Desktop Browsing,2025-02-08 01:46:09
+User_370,Impulse Buying,2025-02-07 12:08:09
+User_371,Social Media Ad Clickthrough,2025-02-03 20:03:09
+User_372,Checkout Completion,2025-02-03 09:40:09
+User_373,Flash Sale Participation,2025-01-13 13:48:09
+User_374,Coupon Hunting,2025-01-21 00:38:09
+User_375,Personalized Recommendation Interaction,2025-01-20 10:49:09
+User_376,Social Media Ad Clickthrough,2025-01-30 04:00:09
+User_377,Subscription Box Signup,2025-01-14 21:56:09
+User_378,Coupon Hunting,2025-01-31 02:44:09
+User_379,Browsing Without Purchase,2025-01-24 00:45:09
+User_380,Loyalty Program Usage,2025-01-27 05:58:09
+User_381,Coupon Hunting,2025-01-11 05:54:09
+User_382,Coupon Hunting,2025-01-22 21:07:09
+User_383,Impulse Buying,2025-01-26 18:04:09
+User_384,Subscription Box Signup,2025-01-25 13:12:09
+User_385,Product Comparison,2025-01-22 17:55:09
+User_386,Product Review Reading,2025-01-16 04:55:09
+User_387,Checkout Completion,2025-01-28 14:25:09
+User_388,Checkout Completion,2025-01-19 11:09:09
+User_389,Desktop Browsing,2025-01-17 20:49:09
+User_390,Social Media Ad Clickthrough,2025-02-01 12:55:09
+User_391,Mobile App Browsing,2025-01-25 17:13:09
+User_392,Product Review Reading,2025-01-11 21:47:09
+User_393,Wishlist Addition,2025-01-24 07:00:09
+User_394,Product Comparison,2025-01-24 23:24:09
+User_395,Flash Sale Participation,2025-01-09 03:43:09
+User_396,Coupon Hunting,2025-01-29 03:21:09
+User_397,Impulse Buying,2025-01-20 14:51:09
+User_398,Search Query Refinement,2025-01-25 07:26:09
+User_399,Mobile App Browsing,2025-02-04 07:29:09
+User_400,Price Sensitivity,2025-02-08 11:21:09
+User_401,Email Campaign Engagement,2025-01-09 21:35:09
+User_402,Price Sensitivity,2025-02-06 21:48:09
+User_403,Personalized Recommendation Interaction,2025-02-01 21:12:09
+User_404,Search Query Refinement,2025-01-18 08:53:09
+User_405,Wishlist Addition,2025-01-15 00:00:09
+User_406,Price Sensitivity,2025-01-18 04:05:09
+User_407,Search Query Refinement,2025-01-09 02:42:09
+User_408,Product Review Reading,2025-02-05 07:03:09
+User_409,Impulse Buying,2025-01-28 01:09:09
+User_410,Mobile App Browsing,2025-01-20 05:10:09
+User_411,Mobile App Browsing,2025-01-11 21:04:09
+User_412,Desktop Browsing,2025-02-04 22:54:09
+User_413,Price Sensitivity,2025-01-23 09:10:09
+User_414,Product Review Reading,2025-01-12 19:47:09
+User_415,Price Sensitivity,2025-01-26 03:39:09
+User_416,Product Comparison,2025-02-01 19:53:09
+User_417,Coupon Hunting,2025-01-19 19:33:09
+User_418,Desktop Browsing,2025-01-16 18:11:09
+User_419,Impulse Buying,2025-01-31 17:29:09
+User_420,Email Campaign Engagement,2025-01-22 10:23:09
+User_421,Cart Abandonment,2025-01-20 22:37:09
+User_422,Loyalty Program Usage,2025-01-09 04:27:09
+User_423,Flash Sale Participation,2025-01-18 02:20:09
+User_424,Desktop Browsing,2025-01-19 15:37:09
+User_425,Cart Abandonment,2025-02-01 20:34:09
+User_426,Desktop Browsing,2025-01-09 04:29:09
+User_427,Repeat Purchase,2025-01-27 10:47:09
+User_428,Loyalty Program Usage,2025-01-16 05:25:09
+User_429,Personalized Recommendation Interaction,2025-01-13 17:29:09
+User_430,Product Review Reading,2025-01-24 08:09:09
+User_431,Repeat Purchase,2025-01-25 12:24:09
+User_432,Mobile App Browsing,2025-01-12 08:39:09
+User_433,Product Comparison,2025-01-10 21:48:09
+User_434,Personalized Recommendation Interaction,2025-01-18 07:34:09
+User_435,Wishlist Addition,2025-01-26 16:38:09
+User_436,Personalized Recommendation Interaction,2025-01-25 14:00:09
+User_437,Wishlist Addition,2025-01-11 13:00:09
+User_438,Subscription Box Signup,2025-01-14 01:29:09
+User_439,Repeat Purchase,2025-01-24 07:59:09
+User_440,Repeat Purchase,2025-01-28 02:00:09
+User_441,Product Comparison,2025-01-26 19:08:09
+User_442,Personalized Recommendation Interaction,2025-01-20 22:00:09
+User_443,Repeat Purchase,2025-02-01 12:52:09
+User_444,Wishlist Addition,2025-01-17 22:29:09
+User_445,Email Campaign Engagement,2025-02-06 23:05:09
+User_446,Email Campaign Engagement,2025-02-02 09:49:09
+User_447,Email Campaign Engagement,2025-02-03 14:37:09
+User_448,Product Comparison,2025-01-24 06:58:09
+User_449,Impulse Buying,2025-02-08 00:51:09
+User_450,Price Sensitivity,2025-02-08 02:43:09
+User_451,Flash Sale Participation,2025-01-25 08:34:09
+User_452,Loyalty Program Usage,2025-01-19 13:43:09
+User_453,Browsing Without Purchase,2025-01-19 12:49:09
+User_454,Email Campaign Engagement,2025-01-28 06:21:09
+User_455,Product Comparison,2025-02-04 11:27:09
+User_456,Cart Abandonment,2025-02-05 20:51:09
+User_457,Coupon Hunting,2025-02-04 11:17:09
+User_458,Checkout Completion,2025-02-04 21:46:09
+User_459,Loyalty Program Usage,2025-01-14 04:30:09
+User_460,Desktop Browsing,2025-01-22 17:34:09
+User_461,Mobile App Browsing,2025-02-01 15:21:09
+User_462,Desktop Browsing,2025-01-17 20:41:09
+User_463,Social Media Ad Clickthrough,2025-01-16 07:32:09
+User_464,Subscription Box Signup,2025-01-27 05:29:09
+User_465,Email Campaign Engagement,2025-01-16 13:09:09
+User_466,Loyalty Program Usage,2025-01-16 08:24:09
+User_467,Product Review Reading,2025-01-12 14:00:09
+User_468,Impulse Buying,2025-01-15 16:17:09
+User_469,Personalized Recommendation Interaction,2025-02-08 04:47:09
+User_470,Loyalty Program Usage,2025-01-17 04:14:09
+User_471,Loyalty Program Usage,2025-01-22 17:23:09
+User_472,Flash Sale Participation,2025-01-30 18:46:09
+User_473,Product Review Reading,2025-02-01 22:21:09
+User_474,Browsing Without Purchase,2025-01-19 10:11:09
+User_475,Search Query Refinement,2025-01-14 12:53:09
+User_476,Mobile App Browsing,2025-01-11 08:22:09
+User_477,Price Sensitivity,2025-01-14 21:10:09
+User_478,Desktop Browsing,2025-01-28 17:41:09
+User_479,Personalized Recommendation Interaction,2025-02-06 13:36:09
+User_480,Product Review Reading,2025-01-17 07:01:09
+User_481,Coupon Hunting,2025-01-18 05:28:09
+User_482,Browsing Without Purchase,2025-02-06 12:40:09
+User_483,Flash Sale Participation,2025-01-10 13:32:09
+User_484,Email Campaign Engagement,2025-01-29 01:05:09
+User_485,Price Sensitivity,2025-01-09 02:02:09
+User_486,Personalized Recommendation Interaction,2025-01-15 00:52:09
+User_487,Repeat Purchase,2025-01-16 20:15:09
+User_488,Product Comparison,2025-01-18 00:34:09
+User_489,Subscription Box Signup,2025-01-30 08:48:09
+User_490,Loyalty Program Usage,2025-01-18 09:25:09
+User_491,Wishlist Addition,2025-01-20 22:10:09
+User_492,Personalized Recommendation Interaction,2025-01-26 14:45:09
+User_493,Email Campaign Engagement,2025-01-24 21:59:09
+User_494,Desktop Browsing,2025-01-24 02:59:09
+User_495,Subscription Box Signup,2025-01-20 13:26:09
+User_496,Personalized Recommendation Interaction,2025-01-30 21:08:09
+User_497,Subscription Box Signup,2025-01-27 21:45:09
+User_498,Loyalty Program Usage,2025-01-09 14:47:09
+User_499,Browsing Without Purchase,2025-02-04 23:25:09
+User_500,Browsing Without Purchase,2025-01-15 14:41:09
